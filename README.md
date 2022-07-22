@@ -1,6 +1,8 @@
 # seller-bot-ru
 telegram бот для продажи аккаунтов
 
+<a href="https://github.com/RoboSnowWorld/seller-bot"><strong>English »</strong></a>
+
 # Как установить
 * Введите ваши реквизиты в **creditionals.txt**
 * Загрузите ваши аккаунты в папку **accounts**
